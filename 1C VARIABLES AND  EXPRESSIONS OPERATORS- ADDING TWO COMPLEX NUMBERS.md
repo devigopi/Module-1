@@ -20,12 +20,13 @@ To write a Python program to perform bitwise and or on the given integer values.
 # Reg.No-212223020028
 #Name-Tharani devi.G
 #Write your code here
-
-```
 a=int(input())
 b=int(input())
 print(a&b)
 print(a|b)
+
+```
+
 
 ## OUTPUT
 
